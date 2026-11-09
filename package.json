@@ -1,0 +1,16 @@
+{
+  "name": "system-design-concepts",
+  "version": "1.0.0",
+  "description": "System design concepts implementation",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "system-design",
+    "rate-limiting",
+    "token-bucket"
+  ],
+  "author": "",
+  "license": "ISC"
+}
